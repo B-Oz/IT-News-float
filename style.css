@@ -10,8 +10,10 @@ body{
 
 img{
     width: 400px;
+    /* height: 400px; */
     display: inline-block;
     margin: 1rem;
+    border-radius: 1rem;
 }
 
 img:hover{
@@ -23,6 +25,8 @@ img:hover{
     font-weight: 900;
     font-size: 2.5rem;
     background-color: firebrick;
+    /* position: fixed;
+    width: 100%; */
 }
 .container, .header{
 display: flex;
