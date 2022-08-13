@@ -18,6 +18,7 @@ img{
 
 img:hover{
     transform: scale(1.5);
+    transition: all ease-in-out 400ms;
 }
 
 .header{
